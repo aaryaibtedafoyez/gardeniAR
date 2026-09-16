@@ -69,9 +69,9 @@ To get a local copy up and running, follow these simple steps.
 
 This project was proudly developed by:
 
+- **Aarya Ibteda Foyez**
 - **Md. Nazim Hossain**
 - **Kazi Tarif Rahman**
-- **Aarya Ibteda Foyez**
 - **SJ Nodi**
 
 *This project was developed as part of the CSE471 curriculum of Brac University.*
