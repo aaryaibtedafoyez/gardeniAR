@@ -68,7 +68,7 @@ To get a local copy up and running, follow these simple steps.
 ## Our Team
 
 This project was proudly developed by:
--**Aarya Ibteda Foyez**
+- **Aarya Ibteda Foyez**
 - **Md. Nazim Hossain**
 - **Kazi Tarif Rahman**
 - **SJ Nodi**
